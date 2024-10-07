@@ -9,6 +9,11 @@ This Data Analysis project has a goal of knowing the sales performance of the E 
 The primary source of Data used here is Data Sale.csv and this can be downloaded anywhere such as Kaggle,FRED or any other data repository site.
 
 ### TOOLS USED
-Microsoft Excel for Data Cleaning, Analysis and Visualization.
-SQL- Structured Query Language for Quering of Data.
-GitHub for Portfolio Building.
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+1. For Data Cleaning
+2. For Analysis
+3. For Visualization.
+   
+- SQL- Structured Query Language for Quering of Data.
+  
+- GitHub for Portfolio Building.

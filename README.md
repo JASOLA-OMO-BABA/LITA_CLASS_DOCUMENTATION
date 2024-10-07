@@ -15,5 +15,10 @@ The primary source of Data used here is Data Sale.csv and this can be downloaded
 3. For Visualization.
    
 - SQL- Structured Query Language for Quering of Data.
-  
 - GitHub for Portfolio Building.
+
+  ### Data Cleaning and Preparations
+  In the initial phase of cleaning and preparations of Data, we perform the following  action;
+  - Data Loading and Inspection
+  -  Handling missing Variables
+  -  Data Cleaning and Formatting
